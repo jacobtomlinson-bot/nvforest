@@ -349,6 +349,7 @@ dependencies:
           - &packaging packaging
           - pip:
               - nvidia-sphinx-theme
+              - sphinx-llm
           - sphinx
           - sphinx-copybutton
           - sphinx-markdown-tables

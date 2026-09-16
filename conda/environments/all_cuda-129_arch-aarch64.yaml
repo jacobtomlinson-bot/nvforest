@@ -45,4 +45,5 @@ dependencies:
 - treelite>=4.7.0,<5.0
 - pip:
   - nvidia-sphinx-theme
+  - sphinx-llm
 name: all_cuda-129_arch-aarch64
